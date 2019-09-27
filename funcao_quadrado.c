@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-double quadrado (double x); // declarando a funcao... cabecalho
+double quadrado (double x); // declarando a funcao... prototipo da funcao
 
 int main(void){
 	double a, q;
